@@ -3,7 +3,7 @@ using System;
 
 public class Utente{
     private string id;
-    private int ciao;
+    private int cia;
     private string nome;
     private string cognome;
 
